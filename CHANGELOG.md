@@ -1,5 +1,9 @@
 # eu_central_bank changelog
 
+## 0.4.0 (Mar 25 2020)
+
+* Separated out rate calculation method (#calculate_rate) and made it more precise
+
 ## 0.3.6 (Sep 4 2013)
 
 * Bank url change
